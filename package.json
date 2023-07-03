@@ -1,0 +1,27 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "This codebase attempts to explain data strcutures using real world problems.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ethansempa/real-life-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ethansempa/real-life-data-structures/issues"
+  },
+  "homepage": "https://github.com/1ethansempa/real-life-data-structures#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3",
+    "typescript": "^5.1.6"
+  }
+}

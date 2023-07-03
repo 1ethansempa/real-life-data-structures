@@ -6,6 +6,10 @@ Most data structures don't bring out real world concepts.
 
 Data structure logic implemented using typescript.
 
+## How to run
+
+npm install
+
 ## Data Structures included
 
 - Disjoint set
