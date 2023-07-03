@@ -12,4 +12,4 @@ Data structure logic implemented using typescript.
 
 ## Inspiration
 
--Typescript Data Structures & Algorithms<https://github.com/TheAlgorithms/TypeScript>
+- <https://github.com/TheAlgorithms/TypeScript>
