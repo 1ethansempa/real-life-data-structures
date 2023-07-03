@@ -21,3 +21,11 @@ console.log(ds.getGroupSize("Bob")); // Output: 2
 
 // Get the number of groups
 console.log(ds.getNumGroups()); // Output: 2
+
+ds.union("Bob", "Charlie");
+
+const attendee = ds.find("Bob")
+
+//return the parent
+console.log(attendee)
+

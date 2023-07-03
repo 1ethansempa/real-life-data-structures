@@ -11,3 +11,7 @@ The disjoint set data structure allows you to efficiently determine which team o
 The main operations provided by the disjoint set data structure are "union" and "find." Union is used to merge two sets or teams into one, while find is used to determine the team or group that a person belongs to by finding the representative or leader of their team.
 
 By using these operations efficiently, the disjoint set data structure can help you solve various problems that involve organizing items into separate groups or finding relationships between items in a collection.
+
+## Real Life Examples
+
+- Social network analysis: Disjoint sets can be applied in social network analysis to identify communities or clusters within a network. By treating individuals as elements and their connections as edges, disjoint sets can help group individuals into communities based on their social interactions.
