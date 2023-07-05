@@ -13,6 +13,7 @@ npm install
 ## Data Structures included
 
 - Disjoint set
+- Linked Lists ( Singly & Doubly Linked Lists)
 
 ## Inspiration
 
