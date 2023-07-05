@@ -5,13 +5,13 @@ export interface LinkedList<T> {
     /* This method retrieves the element at a specific index in the linked list. */
     get(index: number): T | null | undefined;
 
-    /* This method adds an element to the end of the linked list */
+    /* This method adds an element to the start of the linked list */
     push(data: T): void;
 
     /* This method removes and returns the last element from the linked list */
     pop(): T | undefined;
 
-    /* This method is an alias for the push method and adds an element to the end of the linked list. */
+    /* This method adds an element to the end of the linked list. */
     append(data: T): void;
 
     /* This method removes and returns the last element from the linked list */
@@ -27,7 +27,7 @@ export interface LinkedList<T> {
     clear(): void;
 
     /* This method converts the linked list to an array. */
-    toArray(): (T | undefined)[];
+    toArray(): (T | null)[];
 
     /* This method returns the number of elements in the linked list */
     getLength(): number;
